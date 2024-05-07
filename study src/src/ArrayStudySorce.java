@@ -1,15 +1,13 @@
 public class ArrayStudySorce {
 
     public static void main(String[] args) {
-        int [][] nums;
-        nums = new int[2][3];
+        int[] a = {10};
+        System.out.println("a[0] = " + a[0]);
+        changeValue(a);
+        System.out.println("a[0] = " + a[0]);
+    }
 
-        for (int[] num : nums) {
-            for (int i : num) {
-                i++;
-                System.out.println(i);;
-            }
-            System.out.println();
-        }
+    static void changeValue(int[] a) {
+        a[0] = 20;
     }
 }
