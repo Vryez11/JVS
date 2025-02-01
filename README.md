@@ -22,6 +22,7 @@
 + 접근 제어자
   + 정리 : https://velog.io/@vryez1_/Java-%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90
 + 자바 메모리 구조와 static
+  + 자바 메모리 구조 정리 : https://velog.io/@vryez1_/Java-%EC%9E%90%EB%B0%94-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0
 + final 변수와 상수
 + 상속
 + 다형성-1
