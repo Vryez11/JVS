@@ -25,6 +25,7 @@
   + 자바 메모리 구조 정리 : https://velog.io/@vryez1_/Java-%EC%9E%90%EB%B0%94-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0
   + static 키워드 정리 : https://velog.io/@vryez1_/Java-Static-%ED%82%A4%EC%9B%8C%EB%93%9C
 + final 변수와 상수
+  + 정리 : https://velog.io/@vryez1_/Java-Final-%ED%82%A4%EC%9B%8C%EB%93%9C
 + 상속
 + 다형성-1
 + 다형성-2
