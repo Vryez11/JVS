@@ -27,6 +27,7 @@
 + final 변수와 상수
   + 정리 : https://velog.io/@vryez1_/Java-Final-%ED%82%A4%EC%9B%8C%EB%93%9C
 + 상속
+  + 정리 : https://velog.io/@vryez1_/Java-%EC%83%81%EC%86%8D
 + 다형성-1
 + 다형성-2
 + 다형성과 설계
